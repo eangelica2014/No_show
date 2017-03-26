@@ -1,0 +1,225 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Montserrat;
+  color: rgb(0, 0, 0);
+}
+
+.element {
+  position: relative;
+  float: left;
+}
+
+.text {
+  position: relative;
+  float: left;
+}
+
+.text-3 p {
+  margin-bottom: 1em;
+}
+
+.wrapper {
+  position: relative;
+  float: left;
+  z-index: 2;
+  width: 20.4166666666%;
+  height: 244px;
+  margin: -298px 0 0 59.27995%;
+  overflow: hidden;
+}
+
+._input {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 1;
+  width: 55.5833333333%;
+  height: 34px;
+  margin: -369px 0 0 21.58073%;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-family: Helvetica;
+  font-size: 0.813em;
+  color: rgb(0, 0, 0);
+}
+
+.element-1 {
+  z-index: 7;
+  width: 66.1666666666%;
+  height: 132px;
+  margin: 15px 0 0 15.16667%;
+  background-color: rgb(26, 25, 80);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+}
+
+.element-2 {
+  z-index: 0;
+  width: 66.1666666666%;
+  height: 415px;
+  margin: -32px 0 0 15.16667%;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  background-color: rgba(180, 195, 228, 0.59);
+}
+
+.element-3 {
+  clear: both;
+  z-index: 10;
+  width: 12.5833333333%;
+  height: 122px;
+  margin: -510px 0 0 16%;
+  background: url('../images/nsa_waitingroom_emblem(2).png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-4 {
+  z-index: 5;
+  width: 2.75%;
+  height: 34px;
+  margin: -369px 0 0 18.36068%;
+  background: url('../images/search.png') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left top;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+}
+
+.element-5 {
+  z-index: 3;
+  width: 39.9166666666%;
+  height: 244px;
+  margin: -298px 0 0 17.77995%;
+  border: 5px solid rgb(154, 154, 154);
+  border-radius: 10px;
+  background-color: rgb(204, 203, 203);
+  box-shadow: -1px 1px 5px rgba(0, 0, 0, .5) inset;
+}
+
+.element-6 {
+  z-index: 6;
+  width: 9.6666666666%;
+  height: 145px;
+  margin: -275px 0 0 18.94271%;
+  border: 1px solid rgb(161, 161, 161);
+  background: url('../images/profile_pic.png') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+.text-1 {
+  clear: both;
+  z-index: 9;
+  width: 26.5833333333%;
+  min-height: 9px;
+  margin: -59px 0 0 53.11328%;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  font-family: Verdana;
+  font-style: italic;
+  font-size: 1.25em;
+  text-align: right;
+  color: rgb(255, 255, 255);
+}
+
+.text-2 {
+  z-index: 8;
+  width: 25.0333333333%;
+  min-height: 36px;
+  margin: -127px 0 0 54.66276%;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, .5);
+  font-size: 3.75em;
+  text-align: right;
+  color: rgb(255, 255, 255);
+}
+
+.text-3 {
+  z-index: 4;
+  width: 27.5%;
+  min-height: 35px;
+  margin: -275px 0 0 30.21094%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: 700;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text strong {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: none;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
